@@ -47,6 +47,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Make your angular app accessible remotely during the development](https://medium.com/@maelfosso/make-your-angular-app-accessible-remotely-during-the-development-80c4fd420162?source=rss-bf20287245b------2)
 <!-- BLOG-POST-LIST:END -->
 
 [Website]: https://maelfosso.github.io
