@@ -49,6 +49,12 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+<a href="https://github.com/maelfosso/github-readme-stats">
+  <img align="center" alt="maelfosso's GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=maelfosso&repo=github-readme-stats&show_icons=true&hide_border=true" />
+</a>
+
 [Website]: https://maelfosso.github.io
 [Twitter]: https://twitter.com/maelfosso
 [LinkedIn]: https://www.linkedin.com/in/mael-fosso-650b6346
