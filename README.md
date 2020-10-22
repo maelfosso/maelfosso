@@ -1,6 +1,6 @@
 ### Hi there, I'm Mael 
 
-## I'm a student, Developer and lastly Entrepreneur
+## I'm a Student, Developer and lastly Entrepreneur
 - I'm looking for a job mixing Software Engineer, Machine Learning, IoT
 - I'm currently learning everything :smile:
 - I'm currently working on [Guitou](https://www.guitou.cm)
@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website](https://maelfosso.github.io)
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter](https://twitter.com/maelfosso)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn](https://www.linkedin.com/in/mael-fosso-650b6346/)
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 
 <br />
 
