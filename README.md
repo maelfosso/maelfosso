@@ -53,8 +53,11 @@
 ---
 
 <a href="https://github.com/maelfosso/github-readme-stats">
-  <img align="center" alt="maelfosso's GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=maelfosso&repo=github-readme-stats&show_icons=true&hide_border=true" />
+  <img align="center" alt="maelfosso's GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=maelfosso&show_icons=true&hide_border=true" />
 </a>
+
+[![Mael FOSSO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maelfosso)](https://github.com/maelfosso/github-readme-stats)
+
 
 [Website]: https://maelfosso.github.io
 [Twitter]: https://twitter.com/maelfosso
