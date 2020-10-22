@@ -52,13 +52,11 @@
 
 ---
 
-<a href="https://github.com/maelfosso/github-readme-stats">
+<a href="https://maelfosso.github.io">
   <img align="center" alt="Mael FOSSO's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=maelfosso&show_icons=true&hide_border=true" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/maelfosso/github-readme-stats">
+<a href="https://maelfosso.github.io">
   <img align="center" alt="Mael FOSSO's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maelfosso&show_icons=true&hide_border=true" />
 </a>
 
