@@ -1,11 +1,11 @@
 ### Hi there, I'm Mael 
 
 ## I'm a Student, Developer and lastly Entrepreneur
-- I'm looking for a job mixing Software Engineer, Machine Learning, IoT
+- I'm looking for a job in one of those fields Software Engineer, Machine Learning, Data Engineering, IoT
 - I'm currently learning everything :smile:
-- I'm currently working on [Guitou](https://www.guitou.cm)
-- 2020 Goals: Get a job and make **Guitou** really popular
+- I'm currently hacking [Guitou](https://www.guitou.cm) on my free time
 - I love Martials Art and Music, mostly classical music
+- 2020 Goals: Get a **remote job**
 
 ### Connect with me:
 
