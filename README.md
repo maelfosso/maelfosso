@@ -47,6 +47,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Minimal web application architecture for easy future scalability with Nginx SSL configuration](https://medium.com/@maelfosso/minimal-web-application-architecture-for-easy-future-scalability-with-nginx-ssl-configuration-654254ce9028?source=rss-bf20287245b------2)
 - [Make your angular app accessible remotely during the development](https://medium.com/@maelfosso/make-your-angular-app-accessible-remotely-during-the-development-80c4fd420162?source=rss-bf20287245b------2)
 <!-- BLOG-POST-LIST:END -->
 
