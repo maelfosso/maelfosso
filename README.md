@@ -1,6 +1,6 @@
 ### Hi there, I'm Mael 
 
-## I'm a Student, Developer and lastly Entrepreneur
+## I'm a software engineer, full-stack developer
 - I'm looking for a job in one of those fields Software Engineer, Machine Learning, Data Engineering, IoT
 - I'm currently learning everything :smile:
 - I'm currently hacking [Guitou](https://www.guitou.cm) on my free time
